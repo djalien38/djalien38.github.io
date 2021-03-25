@@ -35,7 +35,9 @@ plugins:
 
 header_pages:
   - index.markdown
-  - about.markdown
+  - aides_de_jeu.markdown
+  - musiques.markdown
+  - a_propos.markdown
 
 lang: fr
 

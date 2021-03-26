@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: LV-426
 email: denis.jean38@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  LV-426 est un site de ressources (scénarios, aides de jeu, audio...)
+  en français pour le jeu de rôle  Alien publié par Arkhane Asylum Publishing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -41,6 +40,8 @@ header_pages:
   - a_propos.markdown
 
 lang: fr
+
+footer: '<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%64%65%6E%69%73%2E%6A%65%61%6E%33%38%40%67%6D%61%69%6C%2E%63%6F%6D">Contact</e>'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

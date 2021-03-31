@@ -1,19 +1,21 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
 
-@font-face {font-family: "OCR A Extended V3";
-  src: url("../assets/fonts/ocr_a_extended_v3/2d814a09d668f730cc91d8d6e390dc08.eot"); /* IE9*/
-  src: url("../assets/fonts/ocr_a_extended_v3/2d814a09d668f730cc91d8d6e390dc08.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-  url("../assets/fonts/ocr_a_extended_v3/2d814a09d668f730cc91d8d6e390dc08.woff2") format("woff2"), /* chrome、firefox */
-  url("../assets/fonts/ocr_a_extended_v3/2d814a09d668f730cc91d8d6e390dc08.woff") format("woff"), /* chrome、firefox */
-  url("../assets/fonts/ocr_a_extended_v3/2d814a09d668f730cc91d8d6e390dc08.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-  url("../assets/fonts/ocr_a_extended_v3/2d814a09d668f730cc91d8d6e390dc08.svg#OCR A Extended V3") format("svg"); /* iOS 4.1- */
+@font-face {font-family: "OCR A Extended";
+  src: url("../assets/fonts/ocr_a_extended/fd6fa80f1e3345834599de891cca3f4c.eot"); /* IE9*/
+  src: url("../assets/fonts/ocr_a_extended/fd6fa80f1e3345834599de891cca3f4c.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../assets/fonts/ocr_a_extended/fd6fa80f1e3345834599de891cca3f4c.woff2") format("woff2"), /* chrome、firefox */
+  url("../assets/fonts/ocr_a_extended/fd6fa80f1e3345834599de891cca3f4c.woff") format("woff"), /* chrome、firefox */
+  url("../assets/fonts/ocr_a_extended/fd6fa80f1e3345834599de891cca3f4c.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../assets/fonts/ocr_a_extended/fd6fa80f1e3345834599de891cca3f4c.svg#OCR A Extended") format("svg"); /* iOS 4.1- */
 }
 
 /**
  * Style variables
  */
-$base-font-family:     'OCR A Extended V3', 'Source Code Pro', monospace !default;
+// UPDATE: March 26, 2021, 3:54 pm
+// https://www.onlinewebfonts.com/download/fd6fa80f1e3345834599de891cca3f4c
+$base-font-family:     'OCR A Extended', 'Source Code Pro', monospace !default;
 $base-font-size:       16px !default;
 $mobile-font-size:     14px !default;
 $base-line-height:     1.5 !default;

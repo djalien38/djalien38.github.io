@@ -14,4 +14,4 @@ Le thème est une version modifiée de [jekyll-theme-console](https://github.com
 
 Les couleurs sont inspirées de celles du Livre de Base du jeu de rôle [Alien](https://www.arkhane-asylum.fr/alien/){:target="_blank"} publié par [Arkhane Asylum Publishing](https://www.arkhane-asylum.fr/){:target="_blank"}.
 
-La police utilisée est [OCR A Extended V3](https://www.onlinewebfonts.com/download/2d814a09d668f730cc91d8d6e390dc08){:target="_blank"} publiée sous licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.fr){:target="_blank"}.
+La police utilisée est [OCR A Extended](https://www.onlinewebfonts.com/download/fd6fa80f1e3345834599de891cca3f4c){:target="_blank"} publiée sous licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.fr){:target="_blank"}.
